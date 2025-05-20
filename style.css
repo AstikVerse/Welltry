@@ -1,0 +1,16 @@
+p{
+    color:#23220a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+h1{
+    color:rgb(198, 15, 155);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url(http://www.geek-officiel.com/wp-content/uploads/2015/06/iron-man1.jpeg);
+    background-position: cover;
+    background-repeat: no-repeat;
+}
